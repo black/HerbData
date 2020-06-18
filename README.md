@@ -10,3 +10,5 @@ https://en.wikipedia.org/wiki/List_of_fictional_plants
 [How to store wikipedia into a forest tree](https://github.com/black/HerbData/blob/master/LjubicForest.pdf)
 
 [Course](https://www.coursera.org/learn/introduction-genomics?specialization=genomic-data-science)
+
+[Sequencing](https://code.google.com/archive/p/bedtools/)
