@@ -1,7 +1,9 @@
 # HerbData
-Storing data in live plants
 
-# Reading material
+Conceptualizing a hardware and software system that enables users to store data in live plants and retrieve it on demand. This innovative idea explores the potential of integrating biological systems with digital storage, merging nature with technology. However, the concept is still in its early stages, requiring extensive scientific research and validation to prove its feasibility. The project aims to explore new frontiers in data storage and bioengineering, potentially transforming the way data is stored in the future.
+
+
+### Reading material
 
 https://en.wikipedia.org/wiki/List_of_fictional_plants
 
